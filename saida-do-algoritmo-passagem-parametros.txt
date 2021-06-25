@@ -1,0 +1,14 @@
+Saída do algoritmo 
+Valor de x1 dentro do método Alterar: 10
+Valor de x1 após a execuçao do método Alterar: 10
+
+Valor de x2 dentro do método AlteraLocal: 10
+Valor de x2 após a execuçao do método: AlteraLocal: 0
+
+Valor de x2 dentro do método ReferenciaForcada: 20
+Valor de x2 após a execuçao do método: ReferenciaForcada: 20
+
+Valor de z dentro do método AlterarSaida: 20
+Valor de z após a execuçao do método: AlterarSaida: 20
+
+
